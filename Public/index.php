@@ -1,3 +1,4 @@
+<?php require_once ('../../Private/initialize.php');?>
 <!doctype html>
 
 <html lang="en">
