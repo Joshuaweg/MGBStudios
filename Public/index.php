@@ -24,7 +24,7 @@
 
 	</nav>
 	<footer>
-
+	&copy; <?php echo date('Y');?>
 	</footer>
 <?PHP 
 
